@@ -4,9 +4,8 @@ and I'm now a student at 1337 MED I’m currently working on projectwith C
 
 BOURAIS Youssef
 
-Junior Machine learning engineer
-Phone number : +212667238845
-Email : youssef.bourais0310@gmail.com
-Linkedin : https://www.linkedin.com/in/youssef-bourais-86066a199/
-Github : https://github.com/youssefbourais0310
-kenitra (Maroc) 
+- Junior Machine learning engineer
+- Phone number : +212667238845
+- Email : youssef.bourais0310@gmail.com
+- Linkedin : https://www.linkedin.com/in/youssef-bourais-86066a199/
+- kenitra (Maroc) 
